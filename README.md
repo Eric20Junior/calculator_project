@@ -7,7 +7,7 @@ This is a calculator project aimed at pair programming. The UI/Frontend was done
 * HTML 
 * CSS
 
-#### Back End:
+#### Functionality:
 * Javascript
 
 #### Collaboration:
