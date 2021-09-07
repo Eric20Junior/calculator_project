@@ -1,8 +1,5 @@
 ## A calculator Project
 
-![image](C:\Users\ogund\Desktop\Collabs\calculatorProj\Img
-)
-
 This is a calculator project aimed at pair programming. The UI/Frontend was done by [Myself](https://github.com/kagedevio). Backend was done by.......
 
 ### Technologies Used:
