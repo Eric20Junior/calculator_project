@@ -14,3 +14,5 @@ This is a calculator project aimed at pair programming. The UI/Frontend was done
 * Git
 * Github
 * Markdown
+
+Successful!!
